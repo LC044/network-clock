@@ -6,7 +6,7 @@
 
 按下按键三种模式切换
 
-1. ![](https://vdn3.vzuu.com/SD/e70f2238-25db-11ed-b647-b64738d741a5.mp4?disable_local_cache=1&bu=078babd7&c=avc.1.1&f=mp4&expiration=1661589995&auth_key=1661589995-0-0-b07909b7d81ca770dc59f70dfbc3185b&v=tx&pu=078babd7)
+1. ![](https://vdn3.vzuu.com/SD/e70f2238-25db-11ed-b647-b64738d741a5.mp4)
 2. ![](https://pic1.zhimg.com/v2-17ce4d528bac4217ba75457f8de5e08c_r.jpg)
 3. ![](https://pic1.zhimg.com/v2-321bbe2ba8dcbb4ca2a3fbcb5aec62e4_r.jpg)
 
