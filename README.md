@@ -6,9 +6,9 @@
 
 按下按键三种模式切换
 
-1. ![](https://upload-images.jianshu.io/upload_images/17840362-95acb6fd183eec96.png?imageMogr2/auto-orient/strip|imageView2/2/w/331/format/webp)
-2. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131449(1)(1).jpg)
-3. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131446(1)(1).jpg)
+1. ![](https://vdn3.vzuu.com/SD/e70f2238-25db-11ed-b647-b64738d741a5.mp4?disable_local_cache=1&bu=078babd7&c=avc.1.1&f=mp4&expiration=1661589995&auth_key=1661589995-0-0-b07909b7d81ca770dc59f70dfbc3185b&v=tx&pu=078babd7)
+2. ![](https://pic1.zhimg.com/v2-17ce4d528bac4217ba75457f8de5e08c_r.jpg)
+3. ![](https://pic1.zhimg.com/v2-321bbe2ba8dcbb4ca2a3fbcb5aec62e4_r.jpg)
 
 ## 二、硬件准备
 
@@ -24,7 +24,7 @@
 
 ### 线路连接：
 
-![接线](https://github.com/LC044/network-clock/blob/main/image/image-20220827115830898.png)
+![接线](https://pic3.zhimg.com/v2-5f8a9038e7554468d3e7adad9acff41a_r.jpg)
 
 ## 三、开源地址
 
