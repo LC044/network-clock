@@ -6,7 +6,7 @@
 
 按下按键三种模式切换
 
-1. ![](https://github.com/LC044/network-clock/blob/main/image/80da0e75a59bf6c452952c4b9b3feefd%2000_00_00-00_00_30.gif)
+1. ![](https://upload-images.jianshu.io/upload_images/17840362-95acb6fd183eec96.png?imageMogr2/auto-orient/strip|imageView2/2/w/331/format/webp)
 2. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131449(1)(1).jpg)
 3. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131446(1)(1).jpg)
 
