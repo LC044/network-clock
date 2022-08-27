@@ -6,9 +6,9 @@
 
 按下按键三种模式切换
 
-1. ![](https://gitee.com/shuaikang-zhou/network-clock/raw/master/image/80da0e75a59bf6c452952c4b9b3feefd%2000_00_00-00_00_30.gif)
-2. ![](https://gitee.com/shuaikang-zhou/network-clock/raw/master/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131449(1)(1).jpg)
-3. ![](https://gitee.com/shuaikang-zhou/network-clock/raw/master/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131446(1)(1).jpg)
+1. ![](https://github.com/LC044/network-clock/blob/main/image/80da0e75a59bf6c452952c4b9b3feefd%2000_00_00-00_00_30.gif)
+2. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131449(1)(1).jpg)
+3. ![](https://github.com/LC044/network-clock/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220827131446(1)(1).jpg)
 
 ## 二、硬件准备
 
@@ -24,7 +24,7 @@
 
 ### 线路连接：
 
-![image-20220827115830898](H:\程序猿\MyNote\物联网\趣味案例\桌面时钟\image\image-20220827115830898.png)
+![接线](https://github.com/LC044/network-clock/blob/main/image/image-20220827115830898.png)
 
 ## 三、开源地址
 
