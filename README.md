@@ -6,9 +6,9 @@
 
 按下按键三种模式切换
 
-1. ![GIF](https://github.com/LC044/network-clock/blob/main/image/80da0e75a59bf6c452952c4b9b3feefd%2000_00_00-00_00_30.gif)
-2. ![](https://pic1.zhimg.com/v2-17ce4d528bac4217ba75457f8de5e08c_r.jpg)
-3. ![](https://pic1.zhimg.com/v2-321bbe2ba8dcbb4ca2a3fbcb5aec62e4_r.jpg)
+1. ![模式一](https://github.com/LC044/network-clock/blob/main/image/80da0e75a59bf6c452952c4b9b3feefd%2000_00_00-00_00_30.gif)
+2. ![模式二](https://pic1.zhimg.com/v2-17ce4d528bac4217ba75457f8de5e08c_r.jpg)
+3. ![模式三](https://pic1.zhimg.com/v2-321bbe2ba8dcbb4ca2a3fbcb5aec62e4_r.jpg)
 
 ## 二、硬件准备
 
